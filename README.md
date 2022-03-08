@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Flutter Projects and some Python Projects
 - 🤔 I’m looking for help with Youtube plugin in Flutter
 - 💬 Ask me about Network Devices and Architecture, Linux Ubuntu Distro
-- 📫 How to reach me: m.travascio(AT)gmail.com
+- 📫 How to reach me: mtravasciocisia(AT)gmail.com
 
 ;-)
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Flutter Project and some Network Python Project 
 - 🤔 I’m looking for help with ...Youtube plugin in Flutter
 - 💬 Ask me about ...Network Architecture, Linux Ubuntu Distro.
-- 📫 How to reach me: m.travascio@gmail.com
+- 📫 How to reach me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
