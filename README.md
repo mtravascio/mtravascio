@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on RegeOMaria App for Android and Apple Devices
+- 🔭 I’m currently working on App for Android and Apple Devices
 - 🌱 I’m currently learning Flutter & Dart
 - 👯 I’m looking to collaborate on Flutter Projects and some Python Projects
 - 💬 Ask me about Network Devices and Architecture, Linux Ubuntu Distro
