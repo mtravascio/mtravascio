@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on App for Android and Apple Devices
 - 🌱 I’m currently learning Flutter & Dart
-- 👯 I’m looking to collaborate on Flutter Projects and some Python Projects
-- 💬 Ask me about Network Devices and Architecture, Linux Ubuntu Distro
-- 📫 How to reach me: mtravasciocisia(AT)gmail.com
+- 👯 I’m looking to collaborate on Python and Flutter Projects
+- 💬 Ask me about network architecture, Linux (Ubuntu) Distro
+- 📫 How to reach me: mtravasciocisia@gmail.com
 
 ;-)
 
