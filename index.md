@@ -18,10 +18,10 @@ The App is currently in development phase!
 
 ### old old version 18/3/2022:
 - [Download](https://drive.google.com/file/d/1KjGTVeYdWrzmFoHpXZk_Nmz7ZD_ig39F/view?usp=sharing)
--->
 
 ---
 
 info about [me](https://mtravascio.github.io/)
 
 ---
+-->
