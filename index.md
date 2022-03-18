@@ -2,9 +2,9 @@
 
 The App is currently in development phase!
 
-...to install and test the app, you have to enable your phone browser/drive to 'install unknow apps' from internet.
+To install and test the app, you have to enable your phone browser/drive to 'install unknow apps' from internet;to do so, you have to search this option in your Android phone settings (security).
 
-...to do so, you have to search this option in your Android phone settings (security).
+[follow this guide](https://docs.google.com/document/d/e/2PACX-1vQCLPccI8WU_CHzfBbyEF9RKHXNDPyEMeAxHE-7BGAWs0jexvoYKUGujpf2tRhFdw/pub)
 
 ---
 
@@ -23,5 +23,6 @@ The App is currently in development phase!
 
 info about [me](https://mtravascio.github.io/)
 
----
 -->
+
+---
