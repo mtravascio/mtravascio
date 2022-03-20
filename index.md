@@ -29,6 +29,6 @@ info about [me](https://mtravascio.github.io/)
 
 -->
 
-![RegeOMaria App Image](https://drive.google.com/file/d/1Wher_rXjV9LAsxZt5XrnqpkkmXA6AS6v/view?usp=sharing)
+![RegeOMaria App Image](RegeOMaria.gif)
 
 ---
