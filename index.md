@@ -11,24 +11,22 @@ To install and test the app, you have to enable your phone browser/drive to 'ins
 
 ---
 
-### last beta version 18/3/2022:
-- [Download](https://drive.google.com/file/d/17pRxNnamORTjgDdb4bu20ozY5S-QQokS/view?usp=sharing)
-
+### last beta version 21/3/2022:
+- [Download](https://drive.google.com/file/d/1JQ4rds5XqBgKC0ZthvzO36-0aAP3ndQL/view?usp=sharing)
 
 <!--
 
 ### old version 18/3/2022
+- [Download](https://drive.google.com/file/d/17pRxNnamORTjgDdb4bu20ozY5S-QQokS/view?usp=sharing)
+
+### old old version 18/3/2022
 - [Download](https://drive.google.com/file/d/1tH3SQNN8e7zyZ51yACP8ucBZtfmBrgkK/view?usp=sharing)
-
-### old old version 18/3/2022:
-- [Download](https://drive.google.com/file/d/1KjGTVeYdWrzmFoHpXZk_Nmz7ZD_ig39F/view?usp=sharing)
-
 ---
 
 info about [me](https://mtravascio.github.io/)
 
 -->
-
+Demo:
 ![RegeOMaria App Image](RegeOMaria.gif)
 
 ---
