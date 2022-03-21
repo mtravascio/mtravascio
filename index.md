@@ -26,7 +26,6 @@ To install and test the app, you have to enable your phone browser/drive to 'ins
 info about [me](https://mtravascio.github.io/)
 
 -->
-Demo:
 ![RegeOMaria App Image](RegeOMaria.gif)
 
 ---
