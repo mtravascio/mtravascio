@@ -11,7 +11,7 @@ To install and test the app, you have to enable your phone browser/drive to 'ins
 
 ---
 
-### last beta version 22/3/2022:
+## last version available:
 - [Download](https://drive.google.com/file/d/1JQ4rds5XqBgKC0ZthvzO36-0aAP3ndQL/view?usp=sharing)
 
 <!--
