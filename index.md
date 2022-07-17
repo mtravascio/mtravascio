@@ -1,18 +1,22 @@
-## Rege O Maria App:
+# Rege O Maria App:
+The App is currently released on Google PlayStore!
 
-The App is currently in development phase!
+## Google PlayStore version available here:
+- [App Rege o Maria]([https://drive.google.com/file/d/1JQ4rds5XqBgKC0ZthvzO36-0aAP3ndQL/view?usp=sharing](https://play.google.com/store/apps/details?id=org.verboincarnato.regeomaria))
 
-To install and test the app, you have to enable your phone browser/drive to 'install unknow apps'. To do so, you have to search that option in your Android phone settings (security).
+---
+
+## Developer version ReadMe:
+To install the developer version and test the app, you have to enable your phone browser/drive to 'install unknow apps'. To do so, you have to search that option in your Android phone settings (security).
 
 1. [follow this guide](https://docs.google.com/document/d/e/2PACX-1vQCLPccI8WU_CHzfBbyEF9RKHXNDPyEMeAxHE-7BGAWs0jexvoYKUGujpf2tRhFdw/pub)
 
 2. see [video1](https://drive.google.com/file/d/1hFTtRrQK15MtoW6209F-PQZqamnU9IuV/view?usp=sharing) and [video2](https://drive.google.com/file/d/1vyEvAlua7SRYhSVFUzrZF0a1407BdtZM/view?usp=sharing)
 
-
 ---
 
-## last version available:
-- [Download](https://drive.google.com/file/d/1JQ4rds5XqBgKC0ZthvzO36-0aAP3ndQL/view?usp=sharing)
+## Developer version available:
+- [Dev Rege o Mara](https://drive.google.com/file/d/1JQ4rds5XqBgKC0ZthvzO36-0aAP3ndQL/view?usp=sharing)
 
 <!--
 
