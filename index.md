@@ -2,7 +2,7 @@
 The App is currently released on Google PlayStore!
 
 ## Google PlayStore version available here:
-- [App Rege o Maria]([https://drive.google.com/file/d/1JQ4rds5XqBgKC0ZthvzO36-0aAP3ndQL/view?usp=sharing](https://play.google.com/store/apps/details?id=org.verboincarnato.regeomaria))
+- [App Rege o Maria](https://play.google.com/store/apps/details?id=org.verboincarnato.regeomaria)
 
 ---
 
@@ -16,7 +16,7 @@ To install the developer version and test the app, you have to enable your phone
 ---
 
 ## Developer version available:
-- [Dev Rege o Mara](https://drive.google.com/file/d/1JQ4rds5XqBgKC0ZthvzO36-0aAP3ndQL/view?usp=sharing)
+- [Dev Rege o Maria](https://drive.google.com/file/d/1JQ4rds5XqBgKC0ZthvzO36-0aAP3ndQL/view?usp=sharing)
 
 <!--
 
