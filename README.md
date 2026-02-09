@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on multiplatform App (Linux,MacOS,Windows,Android,iOS)
 - 🌱 I’m currently learning Flutter & Dart
 - 👯 I’m looking to collaborate on Python and Flutter Projects
+- I'm currently working on AI Projects
 
 ;-)
 
@@ -13,5 +14,6 @@
 - 🔭 I’m currently working on multiplatform App (Linux,MacOS,Windows,Android,iOS)
 - 🌱 I’m currently learning Flutter & Dart
 - 👯 I’m looking to collaborate on Python and Flutter Projects
+- I'm currently working on AI Projects 
 
 -->
